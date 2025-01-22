@@ -1,0 +1,22 @@
+
+{
+  "name": "m9-pract3_sjdm-vimeo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "vite": "^6.0.11"
+  },
+  "devDependencies": {
+    "sass": "^1.83.4"
+  },
+  "description": ""
+}
